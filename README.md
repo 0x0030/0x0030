@@ -1,7 +1,6 @@
-<div id="header" align="center">
-  <img src="https://ibb.co/XXVBx5s" width="100"/>
-</div>
-
+# Hi there, I'm [Artem.V] ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Learn many things to become Java-developer
+[![LeetCode user ArtemLvl](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%13ffa116&label=ArtemLvl&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FArtemLvl&logo=leetcode&logoColor=green)](https://leetcode.com/ArtemLvl/)
 <!--
 **0x0030/0x0030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
