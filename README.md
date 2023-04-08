@@ -2,6 +2,7 @@
 ### Learn many things to become Java-developer
 [![LeetCode user ArtemLvl](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%13ffa116&label=ArtemLvl&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FArtemLvl&logo=leetcode&logoColor=green)](https://leetcode.com/ArtemLvl/)
 <!--
+How to reach me: 89272009288@yandex.ru
 **0x0030/0x0030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
